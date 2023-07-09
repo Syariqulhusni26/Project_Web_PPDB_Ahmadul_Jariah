@@ -1,0 +1,24 @@
+- Tatacara Pembuatan form
+1. didalam tag label terdapat 'for' sebagai atribut penting untuk menghubungkan dengan tag input
+2. didalam tag input terdapat atribut 'type', type ini banyak valuenya, yaitu
+1. button
+2. checkbox
+3. color
+4. date
+5.datetime-local
+6. email
+7. file
+8. hidden
+9. image
+10. month
+11. number
+12. password
+13. radio
+14. range
+15. reset
+16. search
+17. submit
+18. tel 
+19. Text
+20. Time.
+21. week
